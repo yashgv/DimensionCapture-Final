@@ -1,14 +1,14 @@
-./dcbackend/.env
-./dcbackend/__pycache__/
+dcbackend/.env
+dcbackend/__pycache__/*
 
 
-./flutter-main/.dart_tool/
-./flutter-main/.idea/
-./flutter-main/.packages
-./flutter-main/.flutter-plugins
-./flutter-main/.flutter-plugins-dependencies
-./flutter-main/.vscode/
-./flutter-main/.metadata
+flutter-main/.dart_tool/
+flutter-main/.idea/
+flutter-main/.packages
+flutter-main/.flutter-plugins
+flutter-main/.flutter-plugins-dependencies
+flutter-main/.vscode/
+flutter-main/.metadata
 
 
 .DS_Store
